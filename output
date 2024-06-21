@@ -1,0 +1,10 @@
+@0 Task t1 started
+@0 Task t2 started
+@0 Task t3 started
+@25 Task t2 finished
+@45 Task t3 finished
+@45 Task t1 disabled
+@45 Outside fork
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 45 ns
+CPU Time:      0.370 seconds;       Data structure size:   0.0Mb
